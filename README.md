@@ -6,8 +6,3 @@
 - 👋 I'm an **AI** enthusiast, so I'm currently studying **[Deep Learning](https://course.fast.ai/)**.
 - 💻 I'm familiar with **Python**, **Java** and others.
 - 👾 I love videogames and music.
-
-  
----
-
-
