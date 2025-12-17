@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/glopezromero/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  </a>
+  &nbsp; <a href="https://lopezromerogabriel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge" alt="Portfolio">
+  </a>
 </p>
 
 <br>
@@ -39,6 +43,10 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       <br><strong>Java</strong>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+      <br><strong>Spring Boot</strong>
+    </td>
   </tr>
 </table>
 
@@ -47,7 +55,7 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
 ### 🌱 What I'm Currently Focusing On
 
 * `🔭` I’m currently working on applying **Neuroevolution** and **Graph-based AI** to real-world challenges.
-* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications.
+* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications. Also, learning about backend development using **Spring Boot**.
 * `🎮` In my free time, I love exploring new indie games and listening to music.
 
 ---
