@@ -13,7 +13,9 @@
 
 I'm a Computer Science student at **UNCuyo** and an **AI Researcher**.
 
-My research focuses on two areas. I apply **Neuroevolution** to **optimize scientific workflows**, aiming to enhance their efficiency and discovery capabilities. Additionally, as part of the **[Heptapus](https://www.heptapus.org/)** research group, I develop solutions for an ongoing **Cyber Threat Intelligence (CTI)** project, using **clustering algorithms** in **Neo4j** to identify and analyze emerging security threats.
+I apply **Neuroevolution** to **optimize scientific workflows**, aiming to enhance their efficiency and discovery capabilities. 
+
+As part of the **[Heptapus](https://www.heptapus.org/)** research group, I developed solutions for a **Cyber Threat Intelligence (CTI)** project, using **clustering algorithms** in **Neo4j** to identify and analyze emerging security threats.
 
 ---
 
