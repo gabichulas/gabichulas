@@ -32,6 +32,10 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
       <br><strong>TensorFlow</strong>
     </td>
@@ -43,10 +47,6 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       <br><strong>Java</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
-      <br><strong>Spring Boot</strong>
-    </td>
   </tr>
 </table>
 
@@ -55,7 +55,7 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
 ### 🌱 What I'm Currently Focusing On
 
 * `🔭` I’m currently working on applying **Neuroevolution** and **Graph-based AI** to real-world challenges.
-* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications. Also, learning about backend development using **Spring Boot**.
+* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications. Also, learning about backend development using **FastAPI**.
 * `🎮` In my free time, I love exploring new indie games and listening to music.
 
 ---
