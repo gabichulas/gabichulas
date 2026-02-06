@@ -55,7 +55,7 @@ As part of the **[Heptapus](https://www.heptapus.org/)** research group, I devel
 ### 🌱 What I'm Currently Focusing On
 
 * `🔭` I’m currently working on applying **Neuroevolution** and **Graph-based AI** to real-world challenges.
-* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications. Also, learning about backend development using **FastAPI**.
+* `🧠` Expanding my knowledge in **Large Language Models (LLMs)** and their applications.
 * `🎮` In my free time, I love exploring new indie games and listening to music.
 
 ---
