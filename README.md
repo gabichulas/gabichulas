@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gabriel <img height="40" src="https://junimobot.github.io/junimo.png"></h1>
-<h3 align="center">DevOps & Infrastructure Engineer</h3>
+<h3 align="center">Application Support Engineer</h3>
 
 <br>
 
@@ -14,9 +14,11 @@
 
 <br>
 
-I'm a **DevOps & Infrastructure Engineer** with a 6-year background in critical IT incident resolution and L2 support. 
+I'm Gabriel, a CS student and Application Support Engineer from Argentina.
 
-Coming from a **Backend Engineering** background (Python/FastAPI), I apply a software engineering mindset to system operations. I specialize in bridging hands-on troubleshooting with infrastructure automation, building resilient CI/CD pipelines, and implementing deep system observability to minimize downtime.
+I originally started out doing backend stuff with Python, but I quickly realized I enjoy the operations side of things a lot more. Right now, I do IT support. I spend my time fixing computers, reading logs, debugging database issues, and figuring out why servers crashed. 
+
+I'm really into Cloud and DevOps. I like to automate operations and set up alerts so the same things don't break twice.
 
 ---
 
@@ -71,8 +73,8 @@ Coming from a **Backend Engineering** background (Python/FastAPI), I apply a sof
       <br><strong>CI/CD</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Airflow" />
-      <br><strong>Airflow</strong>
+      <img src="https://cdn.simpleicons.org/ansible/CC0000" width="40" height="40" alt="Airflow" />
+      <br><strong>Ansible</strong>
     </td>
   </tr>
 </table>
