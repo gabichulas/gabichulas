@@ -14,7 +14,7 @@
 
 <br>
 
-I'm Gabriel, a CS student and Application Support Engineer from Argentina.
+I'm a CS student and Application Support Engineer from Argentina.
 
 I originally started out doing backend stuff with Python, but I quickly realized I enjoy the operations side of things a lot more. Right now, I do IT support. I spend my time fixing computers, reading logs, debugging database issues, and figuring out why servers crashed. 
 
