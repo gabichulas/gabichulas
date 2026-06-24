@@ -83,7 +83,7 @@ I'm really into Cloud and DevOps. I like to automate operations and set up alert
 
 ### 🌱 What I'm Currently Focusing On
 
-* `🔭` **Working on:** Architecting automated data pipelines using **Apache Airflow**, **Docker**, and **Terraform** for automated deployment.
+* `🔭` **Working on:** Breaking things on purpose just to fix them.
 * `🧠` **Learning:** Cloud Architecture & Engineering on AWS.
 * `🎮` **Free time:** Trying to 112% Hollow Knight.
 
