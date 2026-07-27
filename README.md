@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gabriel <img height="40" src="https://junimobot.github.io/junimo.png"></h1>
-<h3 align="center">Application Support Engineer</h3>
+<h3 align="center">Backend Software Engineer</h3>
 
 <br>
 
@@ -14,11 +14,9 @@
 
 <br>
 
-I'm a CS student and Application Support Engineer from Argentina.
+I'm a CS student and Backend Developer from Argentina.
 
-I originally started out doing backend stuff with Python, but I quickly realized I enjoy the operations side of things a lot more. Right now, I do IT support. I spend my time fixing computers, reading logs, debugging database issues, and figuring out why servers crashed. 
-
-I'm really into Cloud and DevOps. I like to automate operations and set up alerts so the same things don't break twice.
+I enjoy understanding how things work under the hood, from building APIs and tools with Python to working with databases and the underlying infrastructure. I have a solid foundation in Linux, Docker, and Cloud/DevOps tools, which helps me package, deploy, and understand the full software lifecycle.
 
 ---
 
@@ -31,23 +29,39 @@ I'm really into Cloud and DevOps. I like to automate operations and set up alert
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+      <br><strong>Django</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+      <br><strong>Kubernetes</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
       <br><strong>Terraform</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
-      <br><strong>GCP</strong>
+      <img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" height="40" alt="Ansible" />
+      <br><strong>Ansible</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
-      <br><strong>LGTM Stack</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+      <br><strong>AWS</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white">
@@ -55,14 +69,6 @@ I'm really into Cloud and DevOps. I like to automate operations and set up alert
         <img src="https://cdn.simpleicons.org/gnubash/black" width="40" height="40" alt="Bash" />
       </picture>
       <br><strong>Bash / Linux</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
     </td>
     <td align="center" width="120">
       <picture>
@@ -73,8 +79,8 @@ I'm really into Cloud and DevOps. I like to automate operations and set up alert
       <br><strong>CI/CD</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/ansible/CC0000" width="40" height="40" alt="Airflow" />
-      <br><strong>Ansible</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
+      <br><strong>LGTM Stack</strong>
     </td>
   </tr>
 </table>
@@ -83,7 +89,7 @@ I'm really into Cloud and DevOps. I like to automate operations and set up alert
 
 ### 🌱 What I'm Currently Focusing On
 
-* `🔭` **Working on:** Breaking things on purpose just to fix them.
+* `🔭` **Working on:** [Demix Cloud](https://github.com/gabichulas/demix-cloud) — an event-driven MLOps platform for audio separation running on AWS/K3s.
 * `🧠` **Learning:** Cloud Architecture & Engineering on AWS.
 * `🎮` **Free time:** Trying to 112% Hollow Knight.
 
