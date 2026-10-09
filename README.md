@@ -14,9 +14,9 @@
 
 <br>
 
-I'm a CS student and Backend Developer from Argentina.
+I'm a CS student, Researcher and Backend Developer from Argentina.
 
-I enjoy understanding how things work under the hood, from building APIs and tools with Python to working with databases and the underlying infrastructure. I have a solid foundation in Linux, Docker, and Cloud/DevOps tools, which helps me package, deploy, and understand the full software lifecycle.
+I enjoy understanding how things work under the hood, from building APIs and tools with Python and Go to working with databases and the underlying infrastructure. I have a solid foundation in Linux, Docker, and Cloud/DevOps tools, which helps me package, deploy, and understand the full software lifecycle.
 
 ---
 
@@ -29,12 +29,12 @@ I enjoy understanding how things work under the hood, from building APIs and too
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="FastAPI" />
+      <br><strong>C</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-      <br><strong>Django</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Django" />
+      <br><strong>Go</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
@@ -84,13 +84,5 @@ I enjoy understanding how things work under the hood, from building APIs and too
     </td>
   </tr>
 </table>
-
----
-
-### 🌱 What I'm Currently Focusing On
-
-* `🔭` **Working on:** [Demix Cloud](https://github.com/gabichulas/demix-cloud) — an event-driven MLOps platform for audio separation running on AWS/K3s.
-* `🧠` **Learning:** Cloud Architecture & Engineering on AWS.
-* `🎮` **Free time:** Trying to 112% Hollow Knight.
 
 ---
